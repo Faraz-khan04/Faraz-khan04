@@ -19,6 +19,7 @@ B.Tech CSIT student and freelance developer. I build Android apps, web apps and 
 | [CareerEdge](https://github.com/Faraz-khan04/careeredge) | Career calculators (skill value per hour of study, remote pay equity) with a community | Next.js, TypeScript, Prisma |
 | [Viral Clip Pipeline](https://github.com/Faraz-khan04/viral-clip-pipeline) | Turns long YouTube videos into captioned vertical Shorts, using AI to find the best moments | Python, Celery, FFmpeg, OpenCV |
 | [RejectionIntel](https://github.com/Faraz-khan04/rejectionintel) | Job-search analytics: shows where your applications fail, with honest confidence levels | Python, FastAPI, D3.js, Chrome extension |
+| [Deconstructor](https://github.com/Faraz-khan04/deconstructor) | Mobile arcade game: saw retro gadgets apart, splatter paint, upgrade your blade | Godot 4, GDScript |
 | [Recoil](https://github.com/Faraz-khan04/recoil) | One-thumb mobile arcade game where your gun is your jetpack | Godot 4, GDScript |
 | [Portfolio](https://github.com/Faraz-khan04/portfolio) | My personal site with an in-page terminal and strict security headers ([live](https://mohdfarazkhan.pages.dev)) | HTML, CSS, JavaScript, GSAP |
 
